@@ -8,7 +8,7 @@ A Jar library for java that provides classes to secure your applications
 
 **NOTE:** The brute force parameter is an expierimental feature that may break if your system clock is modified, thus use responsibly
 
-**NOTE:** If your java aplication is not yet compiled and you have your whole project in your hands, at execution within your IDE, PasswordScanner will not lock your execution and you can continue freely
+**NOTE:** PasswordScanner functions only work outside your IDE, thus, if you have your whole project in your hands and running it from the IDE, your execution wont be locked
 
 <img src="screenshots/splash.png" alt="splashscreen" width="600"/>
 <img src="screenshots/main.png" alt="Main Window" width="600"/>   <img src="screenshots/text.png" alt="Main Window" width="600"/>
