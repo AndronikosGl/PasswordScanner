@@ -10,8 +10,8 @@ A Jar library for java that provides classes to secure your applications
 
 **NOTE:** PasswordScanner functions only work outside your IDE, thus, if you have your whole project in your hands and running it from the IDE, your execution wont be locked
 
-<img src="screenshots/splash.png" alt="splashscreen" width="600"/>
-<img src="screenshots/main.png" alt="Main Window" width="600"/>   <img src="screenshots/text.png" alt="Main Window" width="600"/>
+<img src="screenshots/cli.png" alt="protection by cli" width="600"/>
+<img src="screenshots/password.png" alt="Main Dialog" width="600"/>   <img src="screenshots/bruteforce.png" alt="Brute force notice" width="600"/>
 
 You can find the jar on the releases or inside the dist folder
 
