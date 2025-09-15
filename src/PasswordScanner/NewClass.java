@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.prefs.BackingStoreException;
 public class NewClass {
     public static void main(String[] args) throws IOException, BackingStoreException {
-        protectGUI(8070, "author@gmail.com", true, null, true);
+        protectGUI(870, "author@gmail.com", true, null, true);
         System.out.println("HELLO WORLD!");
     }
 }

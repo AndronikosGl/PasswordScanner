@@ -343,7 +343,7 @@ public class Locker {
             }
             UIManager.put("OptionPane.background", new Color(252, 252, 252));
             UIManager.put("control", new Color(244, 244, 244));
-            JDialog window = new JDialog(Which_jframe, "JSecurity", true);
+            JDialog window = new JDialog(Which_jframe, "Protection", true);
 
             try {
 
