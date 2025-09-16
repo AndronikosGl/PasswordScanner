@@ -21,7 +21,7 @@ You can find the jar on the releases or inside the dist folder
 ## For use with GUI
 `protectGUI(int PIN, String Owner, boolean Is_cancelable, JFrame Which_jframe, boolean Is_brute_force_protection_enabled)`
 
-Extended ocumentation can be also found in your IDE's auto completion
+Extended documentation can be also found in your IDE's auto completion
 
 ## Copyright
 
