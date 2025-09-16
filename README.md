@@ -1,5 +1,5 @@
 # PasswordScanner
-A Jar library for java that provides classes to secure your applications
+A Jar library for java that provides classes to secure your applications from unauthorized execution
 
 ## Features 
 - Function to lock your java program in a CLI or GUI style
