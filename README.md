@@ -1,7 +1,7 @@
 # PasswordScanner
 A Jar library for java that provides classes to secure your applications
 
-## Features
+## Features 
 - Function to lock your java program in a CLI or GUI style
 - Parameter to provide an owner name alongside PIN
 - Ability to enable brute force protection and make user wait for 5 minutes after 4 failed attempts 
