@@ -6,7 +6,7 @@ A Jar library for java that provides classes to secure your applications
 - Parameter to provide an owner name alongside PIN
 - Ability to enable brute force protection and make user wait for 5 minutes after 4 failed attempts 
 
-**NOTE:** The brute force parameter is an expierimental feature that may break if your system clock is modified, thus use responsibly
+**NOTE:** The brute force parameter is an expierimental feature that may break, for example if your system clock is modified, thus use responsibly
 
 **NOTE:** PasswordScanner functions only work outside your IDE, thus, if you have your whole project in your hands and running it from the IDE, your execution wont be locked
 
@@ -14,6 +14,14 @@ A Jar library for java that provides classes to secure your applications
 <img src="screenshots/password.png" alt="Main Dialog" width="600"/>   <img src="screenshots/bruteforce.png" alt="Brute force notice" width="600"/>
 
 You can find the jar on the releases or inside the dist folder
+
+## For use as CLI
+`protect(int PIN, String Owner, boolean Is_brute_force_protection_enabled)` 
+
+## For use with GUI
+`protectGUI(int PIN, String Owner, boolean Is_cancelable, JFrame Which_jframe, boolean Is_brute_force_protection_enabled)`
+
+Extended ocumentation can be also found in your IDE's auto completion
 
 ## Copyright
 
